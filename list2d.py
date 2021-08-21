@@ -6,6 +6,8 @@ twoD = [
 
 print(twoD[1][1]) # returns 5
 
+#returns entire array
+
 for row in twoD:
     for item in row:
         print(item)
